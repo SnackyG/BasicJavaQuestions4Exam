@@ -1,0 +1,35 @@
+Q1 // 2: int
+Q2 // 2: \n
+Q3 // 2: 11
+Q4 // 3: void
+Q5 // 2: A variable passed to a method
+Q6 // 2: By value
+Q7 // 3: Order of parameters matters
+Q8 // 4: To provide a result to the caller
+Q9 // 1: Defining multiple methods with the same name but different parameters
+Q10 // 2: "It belongs to the class rather than any object" is true. A static member (variable or method) is associated with the class itself, not with any specific instance of the class.
+Q11 // 3: for loop
+Q12 // 2: while loop
+Q13 // 3: do-while loop
+Q14 // 4: foreach loop
+Q15 // 1: Off-by-one errors
+Q16 // 4: To repeat until a special value is encountered
+Q17 // 2: To document variable changes during each loop iteration
+Q18 // 1: Using simple boolean expressions
+Q19 // 3: Scanner
+Q20 // 1: To read input from various sources
+Q21 // 2: A sequence of characters separated by delimiters
+Q22 // 2: To write formatted data to an output stream
+Q23 // 3: An event that disrupts program execution
+Q24 // 3: A class is a blueprint for objects
+Q25 // 2: State refers to variables, behavior refers to methods
+Q26 // 2: The current object
+Q27 // 2: Sharing code between classes
+Q28 // 1: A subclass extends a superclass
+Q29 // 2: To override a superclass method
+Q30 // 4: ArrayList automatically resizes
+Q31 // 3: ArrayList can store primitive types ***  "ArrayList can store primitive types". ArrayList can store both primitive types and objects through auto-boxing and unboxing, while arrays can only store elements of a specific type.***
+Q32 // 1: To wrap primitive types in objects
+Q33 // 2: Sorts elements in ascending order
+Q34 // 3: To compare objects
+
